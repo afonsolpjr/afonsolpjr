@@ -2,6 +2,7 @@
 >
 > -- <cite>Vladimir Ilyich Ulyanov, Lenin</cite>
 
+Looking for projects to collaborate on.
 <!--
 **afonsolpjr/afonsolpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
