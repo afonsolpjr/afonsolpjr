@@ -1,4 +1,6 @@
-## Hi there 👋
+> “It is necessary to dream, but with the condition of believing in our dreams. To examine real life carefully, to confront our observation with our dreams, and to perform our fantasy scrupulously.”
+>
+> -- <cite>Vladimir Ilyich Ulyanov, Lenin</cite>
 
 <!--
 **afonsolpjr/afonsolpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
