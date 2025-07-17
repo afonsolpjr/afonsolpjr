@@ -1,8 +1,9 @@
-> “It is necessary to dream, but with the condition of believing in our dreams. To examine real life carefully, to confront our observation with our dreams, and to perform our fantasy scrupulously.”
->
-> -- <cite>Vladimir Ilyich Ulyanov, Lenin</cite>
 
 Looking for projects to collaborate on.
+
+---
+<a><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" alt="Telegram Icon" width=32 height=32>  </a>
+<a href="mailto:afonsolpjr@hotmail.com"><img  src="./mail-2560.png"  width=32 height=32></a>
 <!--
 **afonsolpjr/afonsolpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
