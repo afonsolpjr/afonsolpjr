@@ -4,7 +4,7 @@ Looking for projects to collaborate on.
 ---
 ### Contact me:
 <a href="mailto:afonsolpjr@hotmail.com"><img  src="./mail-2560.png"  width=32 height=32></a>
-<a><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" alt="Telegram Icon" width=34 height=34>  </a>
+<a href="https://t.me/afonsolpjr"><img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" alt="Telegram Icon" width=34 height=34>  </a>
   
 <!--
 **afonsolpjr/afonsolpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
